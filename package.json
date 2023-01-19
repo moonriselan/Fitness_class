@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "sass": "^1.57.1"
+  },
+  "name": "fitness_class",
+  "description": "T# 🎨 FitClass Landing Page Design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonriselan/Fitness_class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonriselan/Fitness_class/issues"
+  },
+  "homepage": "https://github.com/moonriselan/Fitness_class#readme"
+}
